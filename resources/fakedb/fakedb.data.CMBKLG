@@ -1,0 +1,1362 @@
+-
+TABLE_VERSION
+0
+\?
+1
+\?
+*
+INFO
+0
+\?
+9
+\?
+-
+INFO
+1
+0
+1694478841634
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just been created.'^</CHANNEL^>^?^.
+-
+CHAT
+0
+\?
+0
+\?
+-
+QUESTCHAT
+0
+\?
+0
+\?
+-
+GOSSIP
+0
+\?
+0
+\?
+-
+GRATZ
+0
+\?
+0
+\?
+-
+AUCTION
+0
+\?
+0
+\?
+-
+OOC
+0
+\?
+0
+\?
+-
+WIZ
+0
+\?
+0
+\?
+-
+CLANTALK
+0
+\?
+4
+\?
+*
+WIZINFO
+0
+\?
+9
+\?
+-
+ICOFF
+0
+\?
+0
+\?
+-
+CLANTALK
+1
+0
+1694484135282
+0,1163264,1049600,0,27,2006,StdMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+1
+0
+1694484135285
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+2
+0
+1694484154040
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+2
+0
+1694484154042
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+3
+0
+1694484154048
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+3
+0
+1694484154051
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+4
+0
+1694484154057
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+4
+0
+1694484154059
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+5
+0
+1694484154063
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+5
+0
+1694484154065
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+6
+0
+1694484154069
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+6
+0
+1694484154070
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+7
+0
+1694484154075
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+7
+0
+1694484154076
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+8
+0
+1694484154080
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+8
+0
+1694484154082
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+9
+0
+1694484154086
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+9
+0
+1694484154088
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+*
+WIZINFO
+0
+\?
+99
+\?
+-
+WIZINFO
+10
+0
+1694484154092
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+*
+INFO
+0
+\?
+99
+\?
+-
+INFO
+10
+0
+1694484154094
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+11
+0
+1694484154098
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+11
+0
+1694484154100
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+12
+0
+1694484154104
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+12
+0
+1694484154106
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+13
+0
+1694484154110
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+13
+0
+1694484154112
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+14
+0
+1694484154116
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+14
+0
+1694484154118
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+15
+0
+1694484154122
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+15
+0
+1694484154123
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+16
+0
+1694484154128
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+16
+0
+1694484154129
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+17
+0
+1694484154133
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+17
+0
+1694484154135
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+18
+0
+1694484154141
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+18
+0
+1694484154143
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+19
+0
+1694484154149
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+19
+0
+1694484154150
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+20
+0
+1694484154155
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+20
+0
+1694484154156
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+21
+0
+1694484154160
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+21
+0
+1694484154162
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+22
+0
+1694484154166
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+22
+0
+1694484154167
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+23
+0
+1694484154171
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+23
+0
+1694484154174
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+24
+0
+1694484154177
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+24
+0
+1694484154179
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+25
+0
+1694484154183
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+25
+0
+1694484154185
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+26
+0
+1694484154189
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+26
+0
+1694484154191
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+27
+0
+1694484154196
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+27
+0
+1694484154198
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+28
+0
+1694484154203
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+28
+0
+1694484154204
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+29
+0
+1694484154208
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+29
+0
+1694484154210
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+30
+0
+1694484154214
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+30
+0
+1694484154216
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+31
+0
+1694484154219
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the 'Gain 30 levels in Thief' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the 'Gain 30 levels in Thief' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+31
+0
+1694484154222
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+32
+0
+1694484154224
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+32
+0
+1694484154227
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+33
+0
+1694484154228
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+33
+0
+1694484154232
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+34
+0
+1694484154233
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+34
+0
+1694484154238
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+35
+0
+1694484154239
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+35
+0
+1694484154242
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+36
+0
+1694484154244
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+36
+0
+1694484154246
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+37
+0
+1694484154249
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+37
+0
+1694484154252
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+38
+0
+1694484154254
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+38
+0
+1694484154258
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+39
+0
+1694484154259
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+39
+0
+1694484154263
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+40
+0
+1694484154265
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+40
+0
+1694484154268
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+41
+0
+1694484154269
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+41
+0
+1694484154273
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+42
+0
+1694484154275
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+42
+0
+1694484154278
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+43
+0
+1694484154281
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+43
+0
+1694484154284
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+44
+0
+1694484154285
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+44
+0
+1694484154288
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+45
+0
+1694484154291
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+45
+0
+1694484154294
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+46
+0
+1694484154296
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+46
+0
+1694484154299
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+47
+0
+1694484154301
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+47
+0
+1694484154304
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+48
+0
+1694484154307
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+48
+0
+1694484154310
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+49
+0
+1694484154312
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+49
+0
+1694484154315
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+50
+0
+1694484154317
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+50
+0
+1694484154320
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+51
+0
+1694484154322
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+51
+0
+1694484154325
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+52
+0
+1694484154327
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+52
+0
+1694484154330
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+53
+0
+1694484154332
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+53
+0
+1694484154335
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+54
+0
+1694484154338
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+54
+0
+1694484154341
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+55
+0
+1694484154343
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+55
+0
+1694484154346
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+56
+0
+1694484154348
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+56
+0
+1694484154350
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+57
+0
+1694484154353
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+57
+0
+1694484154356
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+58
+0
+1694484154358
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+58
+0
+1694484154360
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+59
+0
+1694484154362
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+59
+0
+1694484154365
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+60
+0
+1694484154367
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+60
+0
+1694484154370
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+61
+0
+1694484154371
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+62
+0
+1694484154374
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the '60 levels as a Thief' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the '60 levels as a Thief' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+61
+0
+1694484154376
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+63
+0
+1694484154378
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+62
+0
+1694484154381
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+64
+0
+1694484154383
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+63
+0
+1694484154386
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+65
+0
+1694484154387
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+64
+0
+1694484154391
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+66
+0
+1694484154392
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+65
+0
+1694484154395
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+67
+0
+1694484154397
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+66
+0
+1694484154399
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+68
+0
+1694484154401
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+67
+0
+1694484154404
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+69
+0
+1694484154406
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+68
+0
+1694484154409
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+70
+0
+1694484154411
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+69
+0
+1694484154414
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+71
+0
+1694484154416
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+70
+0
+1694484154418
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+72
+0
+1694484154420
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+71
+0
+1694484154423
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+73
+0
+1694484154424
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+72
+0
+1694484154427
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+74
+0
+1694484154428
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+73
+0
+1694484154432
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+75
+0
+1694484154434
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+74
+0
+1694484154438
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+76
+0
+1694484154439
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+75
+0
+1694484154442
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+77
+0
+1694484154444
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+76
+0
+1694484154447
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+78
+0
+1694484154449
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+77
+0
+1694484154452
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+79
+0
+1694484154454
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+78
+0
+1694484154457
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+80
+0
+1694484154459
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+79
+0
+1694484154462
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+81
+0
+1694484154464
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+80
+0
+1694484154468
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+82
+0
+1694484154470
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+81
+0
+1694484154473
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+83
+0
+1694484154475
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+82
+0
+1694484154477
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+84
+0
+1694484154479
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+83
+0
+1694484154482
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+85
+0
+1694484154484
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+84
+0
+1694484154486
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+86
+0
+1694484154488
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+85
+0
+1694484154491
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+87
+0
+1694484154493
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+86
+0
+1694484154497
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+88
+0
+1694484154499
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+87
+0
+1694484154502
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+89
+0
+1694484154504
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+88
+0
+1694484154508
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+90
+0
+1694484154510
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+89
+0
+1694484154515
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+91
+0
+1694484154517
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+90
+0
+1694484154520
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+92
+0
+1694484154521
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+INFO
+93
+0
+1694484154524
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the '90 levels as a Thief' player achievement!'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has completed the '90 levels as a Thief' player achievement!'^</CHANNEL^>^?^.
+-
+WIZINFO
+91
+0
+1694484154526
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+94
+0
+1694484154528
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+92
+0
+1694484154531
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+95
+0
+1694484154532
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+93
+0
+1694484154535
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+96
+0
+1694484154537
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+94
+0
+1694484154539
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+97
+0
+1694484154541
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+95
+0
+1694484154543
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+98
+0
+1694484154546
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+96
+0
+1694484154549
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+99
+0
+1694484154551
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+97
+0
+1694484154554
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+0
+\?
+104
+\?
+-
+INFO
+100
+0
+1694484154555
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+98
+0
+1694484154562
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+101
+0
+1694484154563
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+99
+0
+1694484154566
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+102
+0
+1694484154569
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+WIZINFO
+0
+\?
+103
+\?
+-
+WIZINFO
+100
+0
+1694484154572
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has just gained a level at START.'^</CHANNEL^>^?^.
+-
+INFO
+103
+0
+1694484154574
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Takashi has just gained a level.'^</CHANNEL^>^?^.
+-
+CLANTALK
+2
+0
+1694487879422
+0,1163264,1049600,0,27,2006,StdMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+101
+0
+1694487879424
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged on.'^</CHANNEL^>^?^.
+-
+INFO
+104
+0
+1694487943032
+0,1163264,1049600,0,27,2007,StdMOB:^</B^>,,,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Bob has just been created.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "INFO"^><S-NAME> [INFO] 'Bob has just been created.'^</CHANNEL^>^?^.
+-
+CLANTALK
+3
+0
+1694489372446
+0,1163264,1049600,0,27,2006,StdMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Bob has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Bob has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+102
+0
+1694489372448
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Bob has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Bob has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+4
+0
+1694489372453
+0,1163264,1049600,0,27,2006,StdMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Takashi has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+103
+0
+1694489372455
+0,1163264,1049600,0,27,2008,StdMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Takashi has logged out'^</CHANNEL^>^?^.
