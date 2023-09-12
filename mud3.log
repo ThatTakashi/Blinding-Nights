@@ -1,0 +1,64 @@
+20230912.1230.39 info  MUD            CoffeeMud v5.10.2
+20230912.1230.39 info  MUD            (C) 2000-2023 Bo Zimmerman
+20230912.1230.39 info  MUD            http://www.coffeemud.org
+20230912.1230.39 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20230912.1230.39 info  MUD@5555       MUD Server started on port: 5555
+20230912.1230.39 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20230912.1230.39 debug HOST0          SSL not configured.
+20230912.1230.39 debug HOST0          SSL not configured.
+20230912.1230.39 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20230912.1230.39 info  cweb-pub0      Started http pub0 on port 27744
+20230912.1230.39 info  cweb-admin0    Started http admin0 on port 27777
+20230912.1230.39 info  cweb-pub0      Started http pub0 on port 80
+20230912.1230.39 debug cweb-admin0Tim Timeout Thread started
+20230912.1230.39 debug cweb-pub0Timeo Timeout Thread started
+20230912.1230.40 info  HOST0          WebMacros loaded  : 199
+20230912.1230.40 info  HOST0          MOB Types loaded  : 148
+20230912.1230.40 info  HOST0          Exit Types loaded : 31
+20230912.1230.40 info  HOST0          Area Types loaded : 14
+20230912.1230.40 info  HOST0          Locales loaded    : 127
+20230912.1230.41 info  HOST0          Fighter Skills    : 153
+20230912.1230.41 info  HOST0          Chants loaded     : 318
+20230912.1230.41 info  HOST0          Languages loaded  : 59
+20230912.1230.41 info  HOST0          Properties loaded : 311
+20230912.1230.42 info  HOST0          Prayers loaded    : 356
+20230912.1230.42 info  HOST0          Thief Skills      : 179
+20230912.1230.42 info  HOST0          Skills loaded     : 338
+20230912.1230.42 info  HOST0          Songs loaded      : 156
+20230912.1230.43 info  HOST0          Spells loaded     : 416
+20230912.1230.43 info  HOST0          Heroics loaded    : 6
+20230912.1230.43 info  HOST0          Tech Skills loaded: 2
+20230912.1230.43 info  HOST0          Traps loaded      : 82
+20230912.1230.43 info  HOST0          Basic Items loaded: 137
+20230912.1230.43 info  HOST0          Weapons loaded    : 61
+20230912.1230.43 info  HOST0          Armor loaded      : 51
+20230912.1230.43 info  HOST0          Magic Items loaded: 46
+20230912.1230.43 info  HOST0          Clan Items loaded : 29
+20230912.1230.43 info  HOST0          Electronics loaded: 98
+20230912.1230.44 info  HOST0          Behaviors loaded  : 97
+20230912.1230.44 info  HOST0          Commands loaded   : 297
+20230912.1230.44 info  HOST0          Races loaded      : 237
+20230912.1230.44 info  HOST0          Classes loaded    : 53
+20230912.1230.45 info  HOST0          Expertises defined: 1820
+20230912.1230.45 info  HOST0          Channels loaded   : 21
+20230912.1230.45 info  HOST0          Socials loaded    : 338
+20230912.1230.45 info  HOST0          Clans loaded      : 0
+20230912.1230.45 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20230912.1230.45 info  I3Server       InterMud3 Core (c)1996 George Reese
+20230912.1230.45 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20230912.1230.45 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20230912.1230.45 info  I3Server       InterMud3 Server started on port 27766
+20230912.1230.46 info  HOST0          Loading catalog...
+20230912.1230.46 info  HOST0          Loading map...
+20230912.1230.46 info  HOST0          Preparing map...
+20230912.1230.46 info  HOST0          Mapped rooms      : 0 in 0 areas
+20230912.1230.46 info  HOST0          NO MAPPED ROOM?!  I'll make ya one!
+20230912.1230.46 info  HOST0          Services and utilities started
+20230912.1230.46 info  HOST0          Host#0 initializated.
+20230912.1230.46 info  MUD            Initialization complete.
+20230912.1230.47 info  Worker0#2      Processing backlog clan table upgrades...
+20230912.1230.47 info  Worker0#2      Backlog clan table upgrades completed. 0/0 messages altered in 1 channels.
+20230912.1231.33 info  MUD@5555       Connection from 0:0:0:0:0:0:0:1
+20230912.1231.41 info  Worker0#4      Creating user: Takashi
+20230912.1234.01 info  Worker0#2      Created user: Takashi
+20230912.1234.01 info  Worker0#2      0:0:0:0:0:0:0:1 Mudlet 4.17.2 MXP GMCP CMP ANSI, character login: Takashi

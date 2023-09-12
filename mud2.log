@@ -1,0 +1,36 @@
+20230912.1257.49 info  MUD            CoffeeMud v5.10.2
+20230912.1257.49 info  MUD            (C) 2000-2023 Bo Zimmerman
+20230912.1257.49 info  MUD            http://www.coffeemud.org
+20230912.1257.49 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20230912.1257.49 info  MUD@5555       MUD Server started on port: 5555
+20230912.1257.49 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20230912.1257.50 debug HOST0          SSL not configured.
+20230912.1257.50 debug HOST0          SSL not configured.
+20230912.1257.50 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20230912.1257.50 info  cweb-pub0      Started http pub0 on port 27744
+20230912.1257.50 info  cweb-admin0    Started http admin0 on port 27777
+20230912.1257.50 info  cweb-pub0      Started http pub0 on port 80
+20230912.1257.50 debug cweb-admin0Tim Timeout Thread started
+20230912.1257.50 debug cweb-pub0Timeo Timeout Thread started
+20230912.1257.50 info  HOST0          WebMacros loaded  : 199
+20230912.1257.50 info  HOST0          MOB Types loaded  : 148
+20230912.1257.50 info  HOST0          Exit Types loaded : 31
+20230912.1257.50 info  HOST0          Area Types loaded : 14
+20230912.1257.51 info  HOST0          Locales loaded    : 127
+20230912.1257.51 info  HOST0          Fighter Skills    : 153
+20230912.1257.51 info  HOST0          Chants loaded     : 318
+20230912.1257.51 info  HOST0          Languages loaded  : 59
+20230912.1257.51 info  HOST0          Properties loaded : 311
+20230912.1257.52 info  HOST0          Prayers loaded    : 356
+20230912.1257.52 info  HOST0          Thief Skills      : 179
+20230912.1257.52 info  HOST0          Skills loaded     : 338
+20230912.1257.52 info  HOST0          Songs loaded      : 156
+20230912.1257.53 info  HOST0          Spells loaded     : 416
+20230912.1257.53 info  HOST0          Heroics loaded    : 6
+20230912.1257.53 info  HOST0          Tech Skills loaded: 2
+20230912.1257.53 info  HOST0          Traps loaded      : 82
+20230912.1257.53 info  HOST0          Basic Items loaded: 137
+20230912.1257.53 info  HOST0          Weapons loaded    : 61
+20230912.1257.53 info  HOST0          Armor loaded      : 51
+20230912.1257.53 info  HOST0          Magic Items loaded: 46
+20230912.1257.53 info  HOST0          Clan Items loaded : 29

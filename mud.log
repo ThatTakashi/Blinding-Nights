@@ -1,0 +1,73 @@
+20230912.1430.10 info  MUD            CoffeeMud v5.10.2
+20230912.1430.10 info  MUD            (C) 2000-2023 Bo Zimmerman
+20230912.1430.10 info  MUD            http://www.coffeemud.org
+20230912.1430.10 info  HOST0          Disabled subsystems: DBERRORQUESTART, COMMAND_POSE, QUITREASON, RETIREREASON
+20230912.1430.10 info  MUD@5555       MUD Server started on port: 5555
+20230912.1430.11 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20230912.1430.11 debug HOST0          SSL not configured.
+20230912.1430.11 debug HOST0          SSL not configured.
+20230912.1430.11 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20230912.1430.11 info  cweb-admin0    Started http admin0 on port 27777
+20230912.1430.11 info  cweb-pub0      Started http pub0 on port 27744
+20230912.1430.11 debug cweb-admin0Tim Timeout Thread started
+20230912.1430.11 info  cweb-pub0      Started http pub0 on port 80
+20230912.1430.11 debug cweb-pub0Timeo Timeout Thread started
+20230912.1430.11 info  HOST0          WebMacros loaded  : 199
+20230912.1430.11 info  HOST0          MOB Types loaded  : 148
+20230912.1430.12 info  HOST0          Exit Types loaded : 31
+20230912.1430.12 info  HOST0          Area Types loaded : 14
+20230912.1430.12 info  HOST0          Locales loaded    : 127
+20230912.1430.12 info  HOST0          Fighter Skills    : 153
+20230912.1430.12 info  HOST0          Chants loaded     : 318
+20230912.1430.12 info  HOST0          Languages loaded  : 59
+20230912.1430.12 info  HOST0          Properties loaded : 311
+20230912.1430.13 info  HOST0          Prayers loaded    : 356
+20230912.1430.13 info  HOST0          Thief Skills      : 179
+20230912.1430.13 info  HOST0          Skills loaded     : 338
+20230912.1430.13 info  HOST0          Songs loaded      : 156
+20230912.1430.14 info  HOST0          Spells loaded     : 416
+20230912.1430.14 info  HOST0          Heroics loaded    : 6
+20230912.1430.14 info  HOST0          Tech Skills loaded: 2
+20230912.1430.14 info  HOST0          Traps loaded      : 82
+20230912.1430.14 info  HOST0          Basic Items loaded: 137
+20230912.1430.14 info  HOST0          Weapons loaded    : 61
+20230912.1430.14 info  HOST0          Armor loaded      : 51
+20230912.1430.14 info  HOST0          Magic Items loaded: 46
+20230912.1430.14 info  HOST0          Clan Items loaded : 29
+20230912.1430.14 info  HOST0          Electronics loaded: 98
+20230912.1430.14 info  HOST0          Behaviors loaded  : 97
+20230912.1430.15 info  HOST0          Commands loaded   : 297
+20230912.1430.15 info  HOST0          Races loaded      : 237
+20230912.1430.15 info  HOST0          Classes loaded    : 53
+20230912.1430.16 info  HOST0          Expertises defined: 1820
+20230912.1430.16 info  HOST0          Channels loaded   : 21
+20230912.1430.16 info  HOST0          Socials loaded    : 338
+20230912.1430.16 info  HOST0          Clans loaded      : 0
+20230912.1430.16 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20230912.1430.16 info  I3Server       InterMud3 Core (c)1996 George Reese
+20230912.1430.16 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20230912.1430.17 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20230912.1430.17 info  I3Server       InterMud3 Server started on port 27766
+20230912.1430.17 info  HOST0          Loading catalog...
+20230912.1430.17 info  HOST0          Loading map...
+20230912.1430.17 info  HOST0          Preparing map...
+20230912.1430.17 info  HOST0          Mapped rooms      : 1 in 1 areas
+20230912.1430.17 info  HOST0          Quests loaded     : 1
+20230912.1430.17 info  HOST0          Services and utilities started
+20230912.1430.17 info  HOST0          Host#0 initializated.
+20230912.1430.17 info  MUD            Initialization complete.
+20230912.1440.27 warni MOBloader      Reset the birthday of player 'Takashi' (Might have been holdover from being first-year player)
+20230912.1504.26 info  MUD@5555       Connection from 0:0:0:0:0:0:0:1
+20230912.1504.29 info  MUD@5555       Connection from 0:0:0:0:0:0:0:1
+20230912.1504.39 info  Worker0#2      0:0:0:0:0:0:0:1 Mudlet 4.17.2 MXP GMCP CMP ANSI, character login: Takashi
+20230912.1505.01 info  Worker0#2      Creating user: Bob
+20230912.1505.43 info  Worker0#2      Created user: Bob
+20230912.1505.43 info  Worker0#2      0:0:0:0:0:0:0:1 Mudlet 4.17.2 MXP GMCP CMP ANSI, character login: Bob
+20230912.1526.49 info  MUD@5555       Connection from 0:0:0:0:0:0:0:1
+20230912.1527.04 info  Worker0#5      Session swap for Takashi.
+20230912.1527.04 info  Worker0#5      0:0:0:0:0:0:0:1 Mudlet 4.17.2 MXP GMCP CMP ANSI, character login: Takashi
+20230912.1527.04 info  Worker0#6      Disconnect: 0:0:0:0:0:0:0:1 (22m)
+20230912.1529.32 info  Worker0#1      Logout: Bob (23m)
+20230912.1529.32 info  Worker0#1      Logout: Takashi (2m)
+20230912.1529.32 info  Worker0#1      Disconnect: Takashi: 0:0:0:0:0:0:0:1 (2m)
+20230912.1529.32 info  Worker0#1      Disconnect: Bob: 0:0:0:0:0:0:0:1 (25m)
